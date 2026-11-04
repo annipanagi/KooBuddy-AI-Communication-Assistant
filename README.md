@@ -1,5 +1,5 @@
 # KooBuddy-AI-Communication-Assistant
-AI-powered communication assistant for iOS and Android. Product leadership case study covering conversational AI, mobile product development, monetization and GTM.
+AI-powered communication assistant launched on iOS and Android. Conversational AI, contextual messaging, mobile product development and commercialization.
 
 
 # KooBuddy | AI-Powered Mobile Communication Assistant
