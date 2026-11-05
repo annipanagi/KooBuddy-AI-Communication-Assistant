@@ -17,6 +17,16 @@ Digital conversations can be challenging. Whether starting a conversation, findi
 
 KooBuddy was designed to address these challenges through AI-powered assistance that understands conversational context and suggests relevant responses. Rather than requiring users to formulate prompts for a general-purpose chatbot, KatoAI was designed to provide relevant suggestions within the context of their conversations.
 
+The Product Challenge
+
+Most AI-assisted messaging workflows require users to copy conversation text, open another application, generate a response and return to the original messaging platform.
+KooBuddy was designed to reduce that friction by bringing AI assistance directly into the communication workflow.
+
+Technical Differentiation
+The Android application uses Accessibility Services to read visible conversation content and provide contextual AI-generated suggestions within the user's existing messaging workflow.
+This integration required coordinating Android accessibility capabilities, contextual information extraction, AI prompting and a mobile overlay experience.
+The product also includes a developed and tested prompt library supporting different communication tones and scenarios.
+
 ### Core Capabilities
 
 - **Context-aware suggestions:** AI-generated responses based on conversational context.
@@ -92,6 +102,19 @@ Explored a broader AI communication companion concept, extending the product vis
 ## Project Status
 
 The original applications are no longer being actively developed. The founders are exploring an acquisition or transfer of the existing product assets.
+The Android application remains available on Google Play, with platform compliance updates required. The iOS application was launched in early 2026, although the Apple Developer Program membership has subsequently expired.
+
+The project is currently being offered for acquisition as a software and digital asset package.
+
+## Links
+
+Website https://slashingit.wixsite.com/koobuddyai
+
+Google Play https://play.google.com/store/apps/details?id=com.kafkaai.katoai&pcampaignid=web_share
+
+Apple App Store https://apps.apple.com/gr/app/koobuddy-ai/id6753647559
+ 
+LinkedIn 
 
 ## About This Repository
 
